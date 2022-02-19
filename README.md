@@ -1,0 +1,2 @@
+# script
+privat_scripts
